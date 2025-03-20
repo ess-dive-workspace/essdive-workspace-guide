@@ -1,12 +1,12 @@
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/essdive-community-space-guide)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-workspace/essdive-workspace-guide)
 
-# Guide to the ESS-DIVE Community Space
+# Guide to the ESS-DIVE Workspace
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-This is a meta-repository for users of the ESS-DIVE community GitHub space.  
+This is a meta-repository for users of the ESS-DIVE workspace GitHub space.  
 
-The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
+The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Workspace on GitHub.
 
 ---  
 
@@ -19,14 +19,14 @@ The contents of this repository will help users become familiar with typical wor
 
 --- 
 
-## The purpose of the Community Space  
-ESS-DIVE started our GitHub Community Space to provide a location where the ESS-DIVE user community can upload documents, code, and tools related to the [ESS-DIVE data repository](http://ess-dive.lbl.gov/).  
+## The purpose of the Workspace  
+ESS-DIVE started our GitHub Workspace to provide a location where the ESS-DIVE user workspace can upload documents, code, and tools related to the [ESS-DIVE data repository](http://ess-dive.lbl.gov/).  
 
-We designed this meta-repository so that contributors to the Community Space can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.  The chapters in this repository provide visitors with information on starting up a GitHub account or repository (Chapters 1 & 2) as well as developing and publishing data reporting formats with ESS-DIVE (Chapters 3 & 4).
+We designed this meta-repository so that contributors to the Workspace can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.  The chapters in this repository provide visitors with information on starting up a GitHub account or repository (Chapters 1 & 2) as well as developing and publishing data reporting formats with ESS-DIVE (Chapters 3 & 4).
 
 --- 
 ## How to contribute to this repository
-The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.  We have provided a set of issue templates on our [GitHub Issues page](https://github.com/ess-dive-community/essdive-community-space-guide/issues/new/choose) which will help us track and respond to any suggestions.
+The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.  We have provided a set of issue templates on our [GitHub Issues page](https://github.com/ess-dive-workspace/essdive-workspace-space-guide/issues/new/choose) which will help us track and respond to any suggestions.
 
 We have based our issue templates on those used by the Darwin Core Biodiversity Standard:
 
@@ -34,7 +34,7 @@ Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014).
 
 ---  
 ## Copyright information  
-*Copyright information about the Community Space will be updated soon*
+*Copyright information about the Workspace will be updated soon*
 
 ---
 ## Funding and acknowledgements  
