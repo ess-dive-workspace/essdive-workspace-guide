@@ -1,17 +1,17 @@
 # Chapter 2 - Starting a new repository
 
 ## Starting a new repository
-We welcome new repositories from ESS-DIVE users that are creating software, documents, or tools related to the ESS-DIVE repository. Prior to creating a new repository, please email ESS-DIVE support to express your interest in contributing to the community space.
+We welcome new repositories from ESS-DIVE users that are creating software, documents, or tools related to the ESS-DIVE repository. Prior to creating a new repository, please email ESS-DIVE support to express your interest in contributing to the workspace.
 
-When you are ready to start a new repository on the ESS-DIVE Community Space click the green "New" button on the Community Space homepage.
+When you are ready to start a new repository on the ESS-DIVE Workspace click the green "New" button on the Workspace homepage.
 
 ![](images/start_repo_1.png)
 
-On the next screen, you will be prompted to create a name for your repository. We encourage you to pick a repository name that is short and **uses dashes between words**. For example, the name of this repository is community-repo-guide.
+On the next screen, you will be prompted to create a name for your repository. We encourage you to pick a repository name that is short and **uses dashes between words**. For example, the name of this repository is essdive-workspace-guide.
 
 ![](images/repo_name.png)
 
-Scrolling down the page, you can enter a description for your repository and then choose whether your repository is public or private. In the interest of creating open and freely available community resources, we ask that all repositories are publicly available. 
+Scrolling down the page, you can enter a description for your repository and then choose whether your repository is public or private. In the interest of creating open and freely available  resources, we ask that all repositories are publicly available. 
 
 ![](images/public_repo.png)
 

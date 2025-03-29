@@ -1,6 +1,6 @@
 ---
 name: Other
-about: Other suggestions for the Community Space Guide
+about: Other suggestions for the Workspace Guide
 title: ''
 labels: other-suggestion
 assignees: ''

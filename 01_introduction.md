@@ -1,14 +1,14 @@
 # Chapter 1 - An brief introduction to GitHub
 
 ### Setting up a GitHub account  
-The first step for anyone interested in contributing to the ESS-DIVE GitHub community space is to go to the [GitHub website](https://github.com/) and create a GitHub account or sign into Github if you already have an account. 
+The first step for anyone interested in contributing to the ESS-DIVE GitHub Workspace is to go to the [GitHub website](https://github.com/) and create a GitHub account or sign into Github if you already have an account. 
 
 ![](images/github_signup.png)
 
-Then, login and navigate to our ESS-DIVE Community Space on GitHub https://github.com/ess-dive-community
+Then, login and navigate to our ESS-DIVE Worksppace on GitHub https://github.com/ess-dive-workspace
 
 ##  Suggesting changes to an existing repository
-If you would like to suggest changes to this, or any other repository in our community space, the best way to do so is by submitting a GitHub "issue". When someone submits an issue, the person or team managing the repository is notified, and then developers and the user community can collaborate on steps to solve the issue.   
+If you would like to suggest changes to this, or any other repository in our Workspace, the best way to do so is by submitting a GitHub "issue". When someone submits an issue, the person or team managing the repository is notified, and then developers and users can collaborate on steps to solve the issue.   
 
 To submit an issue:
 - First make sure you are logged into your GitHub account  

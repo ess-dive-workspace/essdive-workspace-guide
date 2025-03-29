@@ -13,7 +13,7 @@ Click the links within the checklist to see a more complete description of the d
 - [ ] [Open source software](#open-source-software)  
 
 ## Attending monthly calls  
-One deliverable that is often provided in a Statement of Work is attending monthly community calls during the development phase of data reporting formats.  These virtual meetings provide a chance for teams developing reporting formats to present their work, get feedback from other teams, and share best practices.  
+One deliverable that is often provided in a Statement of Work is attending monthly calls during the development phase of data reporting formats.  These virtual meetings provide a chance for teams developing reporting formats to present their work, get feedback from other teams, and share best practices.  
 
 ## Quarterly reports  
 Quarterly reports provide the ESS-DIVE team with updates on data reporting format progress and identify areas where support may be needed.
